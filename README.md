@@ -94,7 +94,7 @@ open up you local host and port
     - Save the URI: 546527894864.dkr.ecr.us-east-1.amazonaws.com/chicken
 
 	
-## 4. Create EC2 machine (Ubuntu) 
+## 4. Create EC2 machine (Ubuntu)
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
