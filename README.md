@@ -81,7 +81,7 @@ open up you local host and port
 
 	4. Pull Your image from ECR in EC2
 
-	5. Lauch your docker image in EC2
+	5. Launch your docker image in EC2
 
 	#Policy:
 
@@ -91,7 +91,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: []
+    - Save the URI: 546527894864.dkr.ecr.us-east-1.amazonaws.com/chicken
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
